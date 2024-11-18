@@ -1,6 +1,7 @@
 # MegaSuit App
 
 📱 **Overview**
+
 MegaSuit is a versatile Android application developed using Java that brings together multiple utilities and features into one app. 
 Designed to provide convenience and efficiency, the app offers a variety of tools such as a browser, calculator, media player, quiz page, and more, all accessible through an intuitive and user-friendly interface.
 
