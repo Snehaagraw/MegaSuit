@@ -34,7 +34,7 @@ Designed to provide convenience and efficiency, the app offers a variety of tool
 
 ---
 
-**Technologies Used**
+📎**Technologies Used**
 - ***Languages***: Java
 - ***Framework***: Android SDK
 - ***IDE***: Android Studio
@@ -42,7 +42,7 @@ Designed to provide convenience and efficiency, the app offers a variety of tool
 
 ---
 
-**Permissions Used**
+📜**Permissions Used**
 To ensure the app functions correctly, the following permissions are included:
    - ***SEND_SMS***: To send messages via the Contact and Message feature.
    - ***CALL_PHONE***: To make phone calls from the app.
@@ -53,7 +53,7 @@ To ensure the app functions correctly, the following permissions are included:
 
 ---
 
-**Installation**
+🛠️**Installation**
 1. Clone this repository to your local machine:
    `git clone https://github.com/Snehaagraw/MegaSuit`
 2. Open the project in **Android Studio.**
@@ -62,15 +62,15 @@ To ensure the app functions correctly, the following permissions are included:
 
 ---
 
-**Screenshots**
+🎨**Screenshots**
 1. *Welcome Page*
-![WhatsApp Image 2024-11-18 at 10 20 03_5287cbb6](https://github.com/user-attachments/assets/6a7a29e6-7665-47dd-b28c-132277058b9f)
+![welcome page](https://github.com/user-attachments/assets/6a7a29e6-7665-47dd-b28c-132277058b9f)
 2. *Login/Signup Page*
 4. *Index Page*
 
 ---
 
-**Future Enhancements**
+🚀**Future Enhancements**
    - Add more tools and features to expand the app’s functionality.
    - Improve the user interface for a more seamless experience.
    - Integrate voice commands and AI-based features for better usability.
