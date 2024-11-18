@@ -64,9 +64,17 @@ To ensure the app functions correctly, the following permissions are included:
 
 🎨**Screenshots**
 1. *Welcome Page*
-![welcome page](https://github.com/user-attachments/assets/6a7a29e6-7665-47dd-b28c-132277058b9f)
+   
+<img src="screenshots/welcome.jpg" alt="welcome page" width="100">
+
 2. *Login/Signup Page*
+
+   <img src="screenshots/enter.jpg" alt="login page" width="100"><br>
+   <img src="screenshots/modes.jpg" alt="modes of login page" width="100">
+   
 4. *Index Page*
+
+   <img src="screenshots/index.jpg" alt="index page" width="100">
 
 ---
 
